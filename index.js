@@ -21,4 +21,3 @@ function holidayCountdown(days, holiday)
   return (`Its's ${days} days until ${holiday}!`)
 
 }
-holidayCountdown("Thanksgiving", "90")
